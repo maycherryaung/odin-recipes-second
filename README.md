@@ -1,1 +1,1 @@
-# odin-recipes-second-attempt
+# odin-recipes-second
