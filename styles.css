@@ -34,4 +34,13 @@ a:hover {
    margin-left: auto;
 }
 
+.footer {
+    width: auto;
+    height: 100px;
+    background-color: rgba(227, 227, 106, 0.724);
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
 
