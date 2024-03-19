@@ -9,4 +9,29 @@
     padding: 0;
 }
 
+body {
+    font-family: Lora,serif;
+}
+
+.header {
+    display: flex;
+    background-color: rgba(227, 227, 106, 0.724);
+    justify-content: space-between;
+    padding: 10px;
+    
+}
+
+#home,
+#socials {
+    padding: 7px;    
+}
+
+a:hover {
+    background-color: rgb(244, 244, 28);
+}
+
+#home {
+   margin-left: auto;
+}
+
 
