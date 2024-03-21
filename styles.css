@@ -44,3 +44,27 @@ a:hover {
     padding-bottom: 10px;
 }
 
+.main {
+    width: auto;
+    height: 410px;
+}
+
+.main h2 {
+    margin: 50px;
+    padding-left: 40px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.container a {
+    display: block;
+    color: black;
+}
+.container img {
+    width: 200px;
+    height: 200px;
+}
